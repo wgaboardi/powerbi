@@ -1,4 +1,4 @@
-# PowerBI Financials Dashboards
+# PowerBI Financial Dashboards
 ## 3 Pages:
 ### Relatório de Vendas considerando Produtos e Segmento
 ### Relatório de Vendas considerando Países e Lucro
